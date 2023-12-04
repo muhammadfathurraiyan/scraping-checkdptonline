@@ -4,7 +4,6 @@
   "description": "scraping from https://cekdptonline.kpu.go.id/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "check": "node index.js"
   },
   "author": "muhammad fathur raiyan",
